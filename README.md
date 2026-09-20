@@ -1,6 +1,3 @@
-# Hand_Gesture_Control_Cursor
-Control PC functions using hand gestures with python and MediaPipe.
-
 # Hand Gesture PC Control
 A Python-based project that allows users to control PC functions using hand gestures.
 ## Features
